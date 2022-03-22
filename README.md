@@ -1,21 +1,29 @@
-# Next.js + Tailwind CSS Example
+# About App
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This app is being made using Next.js, React.js. Sanity.io is used as backend and the tailwindcss is being used for designing
 
-## Deploy your own
+# App Link:
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+https://medium-app-sanity.vercel.app/
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+# Dependencies:
 
-## How to use
+1. npx create-next-app --example with-tailwindcss medium-typescript-tailwind-sanity
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+2. yarn add react-hook-form
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+3. yarn add react-portable-text
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+4. npm install -g @sanity/cli
+
+5. yarn add @sanity/image-url
+
+# Steps to use Sanity:
+
+1.	sanity login
+
+2.	sanity init --coupon sonny2022
+
+3. sanity deploy
+
+More help can be taken from my react notes at https://github.com/MUHAMMAD-MUNEEB-WASEEM/REACT-MERN-HTML-CSS-JS-NOTES.git
