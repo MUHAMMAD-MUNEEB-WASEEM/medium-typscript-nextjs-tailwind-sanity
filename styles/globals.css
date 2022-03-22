@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+    .commentLabel{
+      @apply
+      block mb-5;
+    }
+  
+    .commentSpan{
+      @apply
+      text-gray-700;
+    }
+
+    .commentInput{
+        @apply
+        shadow border rounded py-2 px-3 mt-1 block w-full ring-yellow-500 outline-none focus:ring;
+
+
+    }
+  
+  }
