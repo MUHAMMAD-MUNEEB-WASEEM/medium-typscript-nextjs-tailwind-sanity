@@ -27,3 +27,7 @@ https://medium-app-sanity.vercel.app/
 3. sanity deploy
 
 More help can be taken from my react notes at https://github.com/MUHAMMAD-MUNEEB-WASEEM/REACT-MERN-HTML-CSS-JS-NOTES.git
+
+# Sanity link:
+
+https://medium-typescript.sanity.studio/desk/post
