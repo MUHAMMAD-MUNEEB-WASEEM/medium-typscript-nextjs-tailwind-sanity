@@ -31,3 +31,8 @@ More help can be taken from my react notes at https://github.com/MUHAMMAD-MUNEEB
 # Sanity link:
 
 https://medium-typescript.sanity.studio/desk/post
+
+# Preview
+
+![medium-frontpage](https://user-images.githubusercontent.com/50763652/159705432-ba917836-aa40-4e6a-8873-249fdd83e868.png)
+
